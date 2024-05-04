@@ -61,7 +61,7 @@ ul li {
     position: relative;
     max-height: 230px;
     overflow-y: hidden;
-    margin: 3px 2px 2px 2px;
+    margin: 3px 0 2px 0;
 }
 
 ul li img {
